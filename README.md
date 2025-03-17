@@ -2,7 +2,7 @@
 
 I'm Sebastian a first-year Computer Science student at [Purdue University](www.purdue.edu)
 
-## Languages 
+## Languages and Frameworks
 
 <!--
 **SebRodDev/SebRodDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
