@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sebastian a first-year Computer Science student at [Purdue University](www.purdue.edu)
+I'm Sebastian a second-year Computer Science student at [Purdue University](www.purdue.edu)
 
 ## Languages and Frameworks
 
